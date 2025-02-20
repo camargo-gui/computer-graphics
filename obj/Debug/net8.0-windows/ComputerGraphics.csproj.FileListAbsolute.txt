@@ -1,0 +1,16 @@
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\bin\Debug\net8.0-windows\ComputerGraphics.exe
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\bin\Debug\net8.0-windows\ComputerGraphics.deps.json
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\bin\Debug\net8.0-windows\ComputerGraphics.runtimeconfig.json
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\bin\Debug\net8.0-windows\ComputerGraphics.dll
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\bin\Debug\net8.0-windows\ComputerGraphics.pdb
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.Form1.resources
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.csproj.GenerateResource.cache
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.AssemblyInfoInputs.cache
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.AssemblyInfo.cs
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.dll
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\refint\ComputerGraphics.dll
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.pdb
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.genruntimeconfig.cache
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ref\ComputerGraphics.dll
