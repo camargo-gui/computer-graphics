@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|c:\\users\\guilhermecolonheseca\\desktop\\pessoal\\computer-graphics\\computergraphics\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C8102EA9-BE96-4C3E-AD5F-8123BAC5C0E9}|ComputerGraphics.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:58:16.879Z",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-08T18:17:00.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAnwHEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:01:09.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAowJMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAApwHoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:55:14.888Z",
+              "WhenOpened": "2025-03-08T18:01:06.648Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:55:09.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\GuilhermeColonheseCa\\Desktop\\Pessoal\\computer-graphics\\ComputerGraphics\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:53:00.252Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }

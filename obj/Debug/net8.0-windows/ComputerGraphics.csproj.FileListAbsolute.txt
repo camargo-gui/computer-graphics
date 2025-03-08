@@ -14,3 +14,4 @@ C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics
 C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.pdb
 C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.genruntimeconfig.cache
 C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ref\ComputerGraphics.dll
+C:\Users\GuilhermeColonheseCa\Desktop\Pessoal\computer-graphics\ComputerGraphics\obj\Debug\net8.0-windows\ComputerGraphics.sourcelink.json
